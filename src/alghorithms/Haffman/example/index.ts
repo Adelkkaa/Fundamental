@@ -1,6 +1,6 @@
-import { calculateAverageCodeLength, calculateEntropy } from "../Haffman/characteristic";
-import { huffmanEncode } from "../Haffman/coding";
-import { huffmanDecode } from "../Haffman/decoding";
+import { calculateAverageCodeLength, calculateEntropy } from "../characteristic";
+import { huffmanEncode } from "../coding";
+import { huffmanDecode } from "../decoding";
 
 const HUFFMAN_STRING = 'world'
 

@@ -1,6 +1,6 @@
 import { describe, expect, it } from "vitest";
-import { huffmanEncode } from "../Haffman/coding";
-import { huffmanDecode } from "../Haffman/decoding";
+import { huffmanEncode } from "../coding";
+import { huffmanDecode } from "../decoding";
 
 describe("Haffman", () => {
     it("Haffman", () => {
